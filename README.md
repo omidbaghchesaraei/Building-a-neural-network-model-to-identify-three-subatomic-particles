@@ -1,6 +1,5 @@
 # Building-a-neural-network-model-to-identify-three-subatomic-particles
-I created a neural network model (two hidden layers, each with 128 neurons and an activation function of sigmoid, epochs = 500 and batch_size=100) using TensorFlow that is able to distinguish between decay modes of the Z boson, the J/psi meson (the ground state of charmonium), and the Y meson, a quarkonium state, with an accuracy of 87%.
-The CERN Dataset: I created a neural network model using TensorFlow that is able to distinguish between decay modes of the Z boson, the J/psi meson (the ground state of charmonium), and the Y meson, a quarkonium state, with an accuracy of 87%.
+I created a neural network model using TensorFlow that is able to distinguish between decay modes of the Z boson, the J/psi meson (the ground state of charmonium), and the Y meson, a quarkonium state, with an accuracy of 87%.
 
 First of all, I would like to explain these particles as follows:
 
